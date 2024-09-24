@@ -1,9 +1,9 @@
-- 👋 Hi~, I’m @bisakaniwa!
-- 👀 I’m interested in learning more about how our machines work! I'm still exploring though.
-- 🌱 I’m currently learning Java, React with Javascript and Typescript. I can do a thing or two using Angular too. Also, I'm formally studying computer sciences.
-- ⚡ I'm graduated in Philosophy and I've learned lots of formal logics there :)
-- 💞️ I dream on having profound knowledge on AI and machine learning so we can talk about ethics ;) (philosophers, right?)
-- 📫 How to reach me: same @ on Instagram, I'm at LinkedIn as Bianca Sakaniwa and you can e-mail me too!
+- 👋 Hi~, I’m Bianca! 28 y/o currently, about 2 years working with tech
+- 👀 I’m interested in learning more about how our whole world works, which includes machines!
+- 🌱 I work with and (hence) am always learning about React with Javascript and Typescript and its features. I have some experience with Java with SpringBoot and Angular too.
+- ⚡ I'm graduated in Philosophy and I'm on my way to be graduated in Computer Science as well
+- 💞️ I'm passionate about Philosophy, specially topics going through human experience such as ethics, politics and epistemology
+- 📫 Check my full profile on LinkedIn!
 
 <!---
 bisakaniwa/bisakaniwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

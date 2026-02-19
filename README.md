@@ -1,8 +1,10 @@
-- 👋 Hi~, I’m Bianca! 28 y/o currently, about 2 years working with tech
-- 👀 I’m interested in learning more about how our whole world works, which includes machines!
-- 🌱 I work with and (hence) am always learning about React with Javascript and Typescript and its features. I have some experience with Java with SpringBoot and Angular too.
-- ⚡ I'm graduated in Philosophy and I'm on my way to be graduated in Computer Science as well
+- 👋 Hi~, I’m Bianca! 29 y/o currently, almost 4 years working with software development, architecture and engineering
+- 👀 I’m interested in learning. Period. Anything works just fine
+- 🌱 Always growing inside the Javascript ecossystem (React, Next, Express, Nest, Typescript, you name it!) but never closed to other stacks
+- ⚡ My Philosophy background gave me the superpower of self-teaching and robust crytical analysis
 - 💞️ I'm passionate about Philosophy, specially topics going through human experience such as ethics, politics and epistemology
+- 🌵 You can find me vibing with my succulents on my free time
+- 🐈 If we videochat, you'll see and hear at least one of my 6 cats around
 - 📫 Check my full profile on LinkedIn!
 
 <!---
